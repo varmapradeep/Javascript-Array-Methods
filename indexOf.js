@@ -1,7 +1,7 @@
 //Syntax
 string.indexOf(searchValue, startIndex);
 
-array.indexOf(searchElement, fromIndex);
+array.indexOf(searchElement, fromIndex);      
 
 //Examples
 
