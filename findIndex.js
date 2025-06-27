@@ -1,5 +1,5 @@
 //Syntax
-array.findIndex(callback(element, index, array), thisArg?);
+// array.findIndex(callback(element, index, array), thisArg?);
 
 
 
